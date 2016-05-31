@@ -1,7 +1,8 @@
-h1 {
-    text-align: center;
+body {
+    background-image: url("http://s1.picswalls.com/wallpapers/2014/08/11/garden-high-definition_090703342_195.jpg");
+    background-size: cover;
 }
 
-h2 {
-    text-align: center;
+.navigation {
+    color: forestgreen;
 }
