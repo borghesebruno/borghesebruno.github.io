@@ -1,5 +1,5 @@
 body {
-    background-image: url("http://www.liv-arcoiris.pt/cache/Album%203/Claro-Plantas_680.jpg");
+    background-image: url("http://plantas.digisa.com.br/upload/imagens_upload/Paisagismo_rico_em_diversidade_de_espcies.jpg");
 }
 
 .navbar-garden {
@@ -12,5 +12,6 @@ body {
 }
 
 .content {
-    background-color: rgba(0, 255, 0, 0.2)
+    background-color: rgba(255, 255, 255, 0.9);
+    position: relative;
 }
