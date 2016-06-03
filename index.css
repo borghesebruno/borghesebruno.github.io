@@ -1,4 +1,16 @@
 body {
-    background-image: url("http://ocurioso.biz/wp-content/uploads/2012/01/Plantas-para-jardim-imagem-4.jpg");
-    background-size: cover;
+    background-image: url("http://www.liv-arcoiris.pt/cache/Album%203/Claro-Plantas_680.jpg");
+}
+
+.navbar-garden {
+    background-color: rebeccapurple;
+    border: none !important;
+}
+
+.navbar-brand-garden {
+    color: lawngreen;
+}
+
+.content {
+    background-color: rgba(0, 255, 0, 0.2)
 }
