@@ -1,17 +1,15 @@
-body {
-    background-image: url("http://plantas.digisa.com.br/upload/imagens_upload/Paisagismo_rico_em_diversidade_de_espcies.jpg");
-}
-
 .navbar-garden {
     background-color: rebeccapurple;
     border: none !important;
+    border-radius: 0px !important;
 }
 
 .navbar-brand-garden {
     color: lawngreen;
 }
 
-.content {
-    background-color: rgba(255, 255, 255, 0.9);
-    position: relative;
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
