@@ -7,9 +7,5 @@ app.config(['$routeProvider', function ($routeProvider) {
 }]);
 
 app.controller('PageCtrl', ['$scope', function ($scope) {
-    $scope.blas = [];
-    for(var i = 0; i < 15; i++)
-    {
-        $scope.blas.push({name: "bla"});
-    }
+    
 }]);
